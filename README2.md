@@ -18,6 +18,6 @@ Topics will include:
 Sub-topics:
 
 1. Advanced Makefiles
-2. x86 assembly
-3. process of how your 
+2. guide from compiled langauge's journey to it's bits
+2. x86 assemblyh
 
