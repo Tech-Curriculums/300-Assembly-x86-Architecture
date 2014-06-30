@@ -4,7 +4,7 @@
 In this class we learn how to write really efficient code, without the restrictions of compiled languages.
 
 
-Topics will include:
+#### Topics will include:
 
 1. Genetic Algorithms
   * AI
@@ -15,7 +15,7 @@ Topics will include:
 3. System Vulnerability
   * countermeasures
 
-Sub-topics:
+#### Sub-topics:
 
 1. Advanced Makefiles
 2. guide from compiled langauge's journey to it's bits
