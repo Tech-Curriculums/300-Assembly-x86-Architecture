@@ -19,5 +19,5 @@ In this class we learn how to write really efficient code, without the restricti
 
 1. Advanced Makefiles
 2. guide from compiled langauge's journey to it's bits
-2. x86 assemblyh
+2. x86 assembly
 
